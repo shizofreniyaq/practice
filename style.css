@@ -1,0 +1,176 @@
+.background1 {
+	background: url(images/background_first.png) no-repeat 50% 0%;
+	background-size: cover;
+	padding-top: 296px;
+	padding-bottom: 234px;
+	max-height: 700px;
+}
+
+
+.header {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	background: rgba(255, 255, 255, 0.1);
+	text-align: center;
+}
+
+.logo1 {
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+
+.Dreammaker {
+	font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+line-height: 26px;
+color: #505050;
+padding-top: 5px;
+
+}
+
+.ul.hr {
+    padding: 4px; 
+    margin-top: -40px;
+   }
+   ul.hr li {
+    display: inline; 
+    margin-right: 5px;  
+    padding: 6px; 
+}
+
+
+.text {
+	display: block;
+	font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 27px;
+color: #717784;
+text-align: center;
+cursor: pointer;
+margin-top: -70px;
+}
+
+
+.button1 {
+	display: inline-block;
+ 	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	line-height: 27px;
+	text-align: center;
+	padding-left:5px;	
+	letter-spacing: 1.5px;
+	color: #FFFFFF;
+	background: #9B9BCA;
+	border-radius: 10px;
+	padding:15px 50px 15px 50px;
+	cursor: pointer;
+	margin-left: 650px;
+}
+
+
+.button1:hover {
+	text-decoration: none;
+	color: black;
+}
+
+.your {
+	font-family: DM Serif Display;
+font-style: normal;
+font-weight: normal;
+font-size: 56px;
+line-height: 100%;
+color: #696A86;
+}
+
+
+
+.permit {
+	font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 27px;
+color: #696A86;
+padding-top: 20px;
+}
+
+
+
+.started {
+	display: inline-block;
+ 	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	line-height: 27px;
+	text-align: center;
+	padding-left:5px;	
+	letter-spacing: 1.5px;
+	color: #FFFFFF;
+	background: #9B9BCA;
+	border-radius: 10px;
+	padding:15px 50px 15px 50px;
+	cursor: pointer;
+	margin-top: 20px
+}
+
+
+.started:hover {
+	text-decoration: none;
+	color:pink;
+}
+
+
+
+.layer2 {
+	margin-top: 100px;
+}
+
+.provide {
+	font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 26px;
+line-height: 39px;
+padding-top: 100px;
+color: #626780;
+text-align: center;
+}
+
+
+.traffic {
+	font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+text-align: center;
+color: #626780;
+}
+
+
+
+.pad_top_140 {
+	padding-top: 140px
+}
+
+
+
+.design {
+	
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 40px;
+color: #626780;
+text-align: center;
+padding-top: 10px;
+}
