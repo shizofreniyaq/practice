@@ -174,3 +174,181 @@ color: #626780;
 text-align: center;
 padding-top: 10px;
 }
+
+
+
+.disign2 {
+	font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 20px;
+text-align: center;
+color: #626780;
+}
+
+
+
+.man {
+	font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 40px;
+color: #626780;
+text-align: center;
+padding-top: 10px;
+}
+
+
+.man2 {
+	font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 20px;
+text-align: center;
+color: #626780;
+}
+
+
+.box {
+	font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 40px;
+color: #626780;
+text-align: center;
+padding-top: 10px;
+}
+
+
+.box2 {
+	font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 20px;
+text-align: center;
+color: #626780;
+}
+
+
+
+.blog {
+	font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 40px;
+color: #626780;
+text-align: center;
+padding-top: 10px;
+}
+
+
+.blog2 {
+	font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 20px;
+text-align: center;
+color: #626780;
+}
+
+
+.col1 {
+	padding-left: 90px;
+}
+
+.col2 {
+	padding-left: 90px;
+}
+
+.col3 {
+	padding-left: 90px;
+}
+
+.col4 {
+	padding-left: 90px;
+}
+
+.col1:hover {
+
+	border: 1px solid #9D9D9D;
+	box-sizing: border-box;
+	border-radius: 5px;
+	padding: 20px;
+	cursor: pointer;
+}
+
+
+.col2:hover {
+	border: 1px solid #9D9D9D;
+	box-sizing: border-box;
+	border-radius: 5px;
+	padding: 20px;
+	cursor: pointer;
+}
+
+.col3:hover {
+	border: 1px solid #9D9D9D;
+	box-sizing: border-box;
+	border-radius: 5px;
+	padding: 20px;
+	cursor: pointer;
+}
+
+.col4:hover {
+	border: 1px solid #9D9D9D;
+	box-sizing: border-box;
+	border-radius: 5px;
+	padding: 20px;
+	cursor: pointer;
+}
+
+
+.lirycs {
+	padding-top: 250px;
+}
+
+
+.text1 {
+	font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 26px;
+line-height: 39px;
+color: #626780;
+}
+
+
+.text2 {
+	padding-top: 20px;
+	font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 30px;
+color: #626780;
+}
+
+
+.expand {
+	padding-top: 200px;
+
+}
+
+
+.expand2 {
+	font-family: PT Serif;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 140%;
+color: #402B2B;
+}
+
+
+.video {
+	
+}
