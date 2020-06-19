@@ -10,6 +10,7 @@
 	<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<script src="https://code.jquery.com/jquery-3.2.1.js"></script>	
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 <body>
 	<div class="background1">
@@ -187,52 +188,55 @@
 
 				<img class="bigman" src="images/bigman.png" alt="" class="img-fluid" width="100%">
 				<img class="elipse" src="images/elipse.png" alt="" class="img-fluid" width="100%">
-
 			</div>
-			<div class="main">
-<div>    
-    <div class="panel">
-        <div class="panel-heading">
-            <a href="#"><i class="fa fa-shopping-cart"></i>What is a professional traffic permit?</a>
-        </div>
-        <div class="panel-collapse">
-            <div class="panel-body">
-                <p>Traffic permits are a requirement for conducting professional traffic.</p>
-                <p>Traffic permits are a requirement for conducting professional traffic.</p>
-                <div class="wrapper-ul">
-                    
-                </div>
-        </div>
+		<div id="accordion">
+  <div class="card">
+    <div class="card-header" id="headingOne">
+      <h5 class="mb-0">
+        <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+         What is a professional traffic permit?
+        </button>
+         <i class="fa-angle-right"></i>
+      </h5>
     </div>
-    <div class="panel">
-        <div class="panel-heading">
-            <a href="#"><i class="fa fa-trophy"></i>How to check the traffic condition?</a>
-        </div>
-        <div class="panel-collapse">
-            <p>Traffic permits are a requirement for conducting professional traffic.</p>
-            <div class="wrapper-ul df">
-                
-            </div>
-            <div class="button"><a href="#">How to check the traffic condition?</a></div>
 
-        </div>
+    <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+      <div class="card-body">
+        Traffic permits are a requirement for conducting professional traffic.
+      </div>
     </div>
-    <div class="panel">
-        <div class="panel-heading">
-            <a href="#"><i class="fa fa-server"></i>What are the requirements for a professional traffic permit?</a>
-        </div>
-        <div class="panel-collapse">
-            <div class="panel-body">
-                <p>Traffic permits are a requirement for conducting professional traffic.</p>
+  </div>
+  <div class="card">
+    <div class="card-header" id="headingTwo">
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+          What is a professional traffic permit?
+        </button>
+      </h5>
+    </div>
+    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+      <div class="card-body">
+        Traffic permits are a requirement for conducting professional traffic.
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-header" id="headingThree">
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+         What is a professional traffic permit?
+        </button>
+      </h5>
+    </div>
+    <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
+      <div class="card-body">
+                Traffic permits are a requirement for conducting professional traffic.
 
-            </div>
-        </div>
-    </div></div>
+      </div>
+    </div>
+  </div>
 </div>
+
 </body>
-		</div>
-	</div>
-</div>
-
 </body>
 </html>
